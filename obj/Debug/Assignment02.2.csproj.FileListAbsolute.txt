@@ -1,0 +1,10 @@
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\bin\Debug\Assignment02.2.exe.config
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\bin\Debug\Assignment02.2.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\bin\Debug\Assignment02.2.pdb
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02.2.csproj.AssemblyReference.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02._2.Form1.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02._2.Properties.Resources.resources
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02.2.csproj.GenerateResource.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02.2.csproj.CoreCompileInputs.cache
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02.2.exe
+D:\SANDUN\University of Kelaniya\3 rd Year\Year 3 - Sem 1\Computer Science\COSC 31112 - Visual Programming\Assignments\A2\Assignment02.2\Assignment02.2\obj\Debug\Assignment02.2.pdb
